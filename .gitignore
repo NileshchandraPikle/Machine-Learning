@@ -1,0 +1,14 @@
+/AirPollutionSeoul/*.csv
+AirPollutionSeoul/Original Data/*.csv
+AlexaReviews_SentimentAnalysis/*.tsv
+AlexaReviews_SentimentAnalysis/*.zip
+AmazonReviews/*.zip
+AmazonReviews/*.csv
+AmazonReviews/*.json
+CreditCardFraud/*.csv
+MNIST/*.csv
+MNIST/*.csv.zip
+MNIST/*.docx
+MNIST_Fashion/*.zip
+R_GraduateDataset/*.csv
+
